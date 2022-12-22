@@ -13,7 +13,7 @@
     <a  href="login.php">Login</a>
     <a class="active" href="cadastroUsuario.php">Cadastro</a>
   </div>
-  <form method="POST" action="cadastroatentica.php" style="border:1px solid #ccc">
+  <form method="POST" action="cadastroatentica.php" style="border:1px">
       <div class="container">
         <h1>Cadastro de usuário</h1>
         <hr>

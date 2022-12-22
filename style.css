@@ -11,6 +11,11 @@ input[type=text], input[type=password], input[type=date] {
   background: #f1f1f1;
 }
 
+.login {
+  margin: 0;
+  width: 50%;
+}
+
 input[type=text]:focus, input[type=password], input[type=date]:focus {
   background-color: #ddd;
   outline: none;
@@ -51,7 +56,7 @@ button:hover {
 
 /* Add padding to container elements */
 .container {
-  padding: 16px;
+  position: relative;
 }
 
 /* Clear floats */
