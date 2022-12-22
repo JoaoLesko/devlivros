@@ -49,8 +49,6 @@
 
   <footer>
       <p>João Pedro Otto Lesko - Análise e Desenvolvimento de Sistemas PUCPR</p>
-      <p>teste de versionamento</p>
-      <p>testando mais uma vez</p>
   </footer>
 </body>
 </html>
